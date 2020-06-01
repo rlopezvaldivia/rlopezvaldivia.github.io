@@ -20,20 +20,24 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size=80px
-  font-weight: 500;
+    color:#393939;
+    font-weight: 500;
+    font-size=80px
+   
 }
 
 h2 {
   color:#393939;
   font-weight: 500;
-  font-size=45px
+  font-size=40px
 }
 
 h3, h4, h5, h6 {
   color:#494949;
   font-weight: 500;
 }
+
+
 
 a {
   color:#008080;
